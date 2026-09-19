@@ -1,4 +1,5 @@
 langchain
 python-dotenv
 langchain-ollama
-fastapi uvicorn
+fastapi 
+uvicorn
